@@ -1,0 +1,25 @@
+#container{
+    display: flex;
+    justify-content:center;
+    width: 60%;
+    margin: auto;   
+    margin-top: 5em;
+    min-width: 95px;
+}
+#color{
+    display: block;
+    margin: auto;
+    height: 80%;
+    min-height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+#codColor{
+    padding-left: 5%;
+}
+#btnGenerar{
+    display: block;
+    width: 25%;
+    min-width: 90px;
+    margin: auto;
+    margin-top: 15px;  
+}
